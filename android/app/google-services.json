@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26172239910",
+    "project_id": "prog7-chatapp",
+    "storage_bucket": "prog7-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26172239910:android:0eb46c3d238fcfc85ab6e7",
+        "android_client_info": {
+          "package_name": "com.example.prog7_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY_bQ98Zovr38ZVAf_woQCsz4cTEhUhfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
